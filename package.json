@@ -1,0 +1,37 @@
+{
+  "title": "Resume",
+  "name": "luan-figueredo-resume",
+  "version": "1.0",
+  "description": "Resume",
+  "keywords": [
+    "css",
+    "sass",
+    "html",
+    "responsive",
+    "theme",
+    "template"
+  ],
+  "homepage": "https://luanrubensf.github.io/",
+  "license": "MIT",
+  "author": "Luan Figueredo",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/luanrubensf/luanrubensf.github.io.git"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0-beta.2",
+    "devicons": "^1.8.0",
+    "jquery": "^3.2.1",
+    "popper.js": "^1.12.6",
+    "simple-line-icons": "^2.4.1"
+  },
+  "devDependencies": {
+    "browser-sync": "2.18.13",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "3.9.0",
+    "gulp-header": "1.8.9",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "3.0.0"
+  }
+}
